@@ -31,11 +31,13 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | Ticket | Issue | Category | Priority | Status |
 |--------|-------|----------|----------|--------|
 | 001 | Password Reset Needed | Account Access | Medium | Closed |
+| 002 | Outlook Email Not Syncing | Email | Medium | Closed |
 
 ---
 
 ## Ticket Documentation
 - [Ticket 001 – Password Reset Needed](tickets/ticket-001-password-reset.md)
+- [Ticket 002 – Outlook Email Not Syncing](tickets/ticket-002-outlook-email-sync.md)
 
 ---
 
