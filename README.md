@@ -32,12 +32,14 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 |--------|-------|----------|----------|--------|
 | 001 | Password Reset Needed | Account Access | Medium | Closed |
 | 002 | Outlook Email Not Syncing | Email | Medium | Closed |
+| 003 | VPN Conenction Failure | Network | High | Closed |
 
 ---
 
 ## Ticket Documentation
 - [Ticket 001 – Password Reset Needed](tickets/ticket-001-password-reset.md)
 - [Ticket 002 – Outlook Email Not Syncing](tickets/ticket-002-outlook-email-sync.md)
+- [Ticket 003 – VPN Connection Failure](tickets/ticket-003-vpn-connection-failure.md)
 
 ---
 
