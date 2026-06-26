@@ -38,6 +38,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 006 | MFA Setup Assistance | Account Access | Medium | Closed |
 | 007 | Account Locked Out | Account Access | High | Closed |
 | 008 | Spam Email Issue | Email | Medium | Closed |
+| 009 | Wi-Fi Connectivity Issue | Network | High | Closed |
 
 ---
 
@@ -50,7 +51,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 006 – MFA Setup Assistance](tickets/ticket-006-mfa-setup-assistance.md)
 - [Ticket 007 – Account Locked Out](tickets/ticket-007-account-locked-out.md)
 - [Ticket 008 – Spam Email Issue](tickets/ticket-008-spam-email-issue.md)
-
+- [Ticket 009 – Wi-Fi Connectivity Issue](tickets/ticket-009-wifi-connectivity-issue.md)
 ---
 
 ## Project Goal
