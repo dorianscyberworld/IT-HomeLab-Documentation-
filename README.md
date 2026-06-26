@@ -36,6 +36,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 004 | Printer Offline | Hardware | Medium | Closed |
 | 005 | Suspicious Phishing Email Report | Email | High | Closed |
 | 006 | MFA Setup Assistance | Account Access | Medium | Closed |
+| 007 | Account Locked Out | Account Access | High | Closed |
 
 ---
 
@@ -46,6 +47,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 004 – Printer Offline](tickets/ticket-004-printer-offline.md)
 - [Ticket 005 – Suspicious Phishing Email Report](tickets/ticket-005-phishing-email-report.md)
 - [Ticket 006 – MFA Setup Assistance](tickets/ticket-006-mfa-setup-assistance.md)
+- [Ticket 007 – Account Locked Out](tickets/ticket-007-account-locked-out.md)
 
 ---
 
