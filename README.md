@@ -40,6 +40,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 008 | Spam Email Issue | Email | Medium | Closed |
 | 009 | Wi-Fi Connectivity Issue | Network | High | Closed |
 | 010 | Laptop Running Slow | Hardware | Medium | Closed |
+| 011 | New Employee Onboarding | Account Access | High | Closed |
 
 ---
 
@@ -54,6 +55,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 008 – Spam Email Issue](tickets/ticket-008-spam-email-issue.md)
 - [Ticket 009 – Wi-Fi Connectivity Issue](tickets/ticket-009-wifi-connectivity-issue.md)
 - [Ticket 010 – Laptop Running Slow](tickets/ticket-010-laptop-running-slow.md)
+- [Ticket 011 – New Employee Onboarding](tickets/ticket-011-new-employee-onboarding.md)
 ---
 
 ## Project Goal
