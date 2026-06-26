@@ -34,6 +34,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 002 | Outlook Email Not Syncing | Email | Medium | Closed |
 | 003 | VPN Conenction Failure | Network | High | Closed |
 | 004 | Printer Offline | Hardware | Medium | Closed |
+| 005 | Suspicious Phishing Email Report | Email | High | Closed |
 
 ---
 
@@ -42,6 +43,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 002 – Outlook Email Not Syncing](tickets/ticket-002-outlook-email-sync.md)
 - [Ticket 003 – VPN Connection Failure](tickets/ticket-003-vpn-connection-failure.md)
 - [Ticket 004 – Printer Offline](tickets/ticket-004-printer-offline.md)
+- [Ticket 005 – Suspicious Phishing Email Report](tickets/ticket-005-phishing-email-report.md)
 
 ---
 
