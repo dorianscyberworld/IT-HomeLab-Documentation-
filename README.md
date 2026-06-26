@@ -37,6 +37,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 005 | Suspicious Phishing Email Report | Email | High | Closed |
 | 006 | MFA Setup Assistance | Account Access | Medium | Closed |
 | 007 | Account Locked Out | Account Access | High | Closed |
+| 008 | Spam Email Issue | Email | Medium | Closed |
 
 ---
 
@@ -48,6 +49,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 005 – Suspicious Phishing Email Report](tickets/ticket-005-phishing-email-report.md)
 - [Ticket 006 – MFA Setup Assistance](tickets/ticket-006-mfa-setup-assistance.md)
 - [Ticket 007 – Account Locked Out](tickets/ticket-007-account-locked-out.md)
+- [Ticket 008 – Spam Email Issue](tickets/ticket-008-spam-email-issue.md)
 
 ---
 
