@@ -41,7 +41,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 | 009 | Wi-Fi Connectivity Issue | Network | High | Closed |
 | 010 | Laptop Running Slow | Hardware | Medium | Closed |
 | 011 | New Employee Onboarding | Account Access | High | Closed |
-
+| 012 | Software Installation Request | Software | Medium | Closed |
 ---
 
 ## Ticket Documentation
@@ -56,6 +56,7 @@ The goal is to practice ticket creation, ticket triage, troubleshooting, issue r
 - [Ticket 009 – Wi-Fi Connectivity Issue](tickets/ticket-009-wifi-connectivity-issue.md)
 - [Ticket 010 – Laptop Running Slow](tickets/ticket-010-laptop-running-slow.md)
 - [Ticket 011 – New Employee Onboarding](tickets/ticket-011-new-employee-onboarding.md)
+- [Ticket 012 – Software Installation Request](tickets/ticket-012-software-installation-request.md)
 ---
 
 ## Project Goal
